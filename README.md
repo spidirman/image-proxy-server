@@ -21,7 +21,7 @@ This repository contains a simple image proxy server built with Node.js and Expr
 3. Install the dependencies:
    ```
    cd image-proxy-server
-   npm install
+   npm install express axios
    ```
 4. Start the server:
    
