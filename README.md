@@ -37,7 +37,10 @@ This repository contains a simple image proxy server built with Node.js and Expr
    ```
 
    The server will fetch the image, set the appropriate Content-Type header, and stream the image data as the response.
+   
+## Exemple :
 
+   ![Example Image](https://github.com/spidirman/image-proxy-server/blob/main/images/exemple.png?raw=true)
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
