@@ -1,5 +1,14 @@
 # Image Proxy Server
 
+<div align="center">
+ <br/>
+  
+ ![GitHub top language](https://img.shields.io/github/languages/top/spidirman/image-proxy-server?style=for-the-badge)
+ ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/spidirman/image-proxy-server?style=for-the-badge)
+ ![repo size](https://img.shields.io/github/repo-size/spidirman/image-proxy-server?style=for-the-badge)
+ <div l= "[![Chat on Discord](https://img.shields.io/badge/discord-.gg%2Ftest-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/test)"></div>
+</div>
+
 This repository contains a simple image proxy server built with Node.js and Express.js. The server allows you to fetch and serve images from remote URLs by providing the image URL as a query parameter. It retrieves the image, sets the appropriate Content-Type header, and streams the image data as the response.
 
 ## Features
